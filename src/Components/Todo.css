@@ -1,0 +1,26 @@
+.todo_list_card{
+    background-color: #0d1b1e;
+    color: white;
+    width: 20vw;
+    margin: 5px auto;
+    font-size: 20px;
+    text-align: left;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.todo_list_card input{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+
+.todo_list_card input:focus{
+    outline: none;
+}
+
+.todo_list_card button{
+    border-radius: 5px;
+}
