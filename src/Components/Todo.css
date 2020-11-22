@@ -14,7 +14,6 @@
     background: transparent;
     border: none;
     color: white;
-    font-size: 18px;
 }
 
 .todo_list_card input:focus{
